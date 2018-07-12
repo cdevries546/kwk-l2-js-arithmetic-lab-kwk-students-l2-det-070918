@@ -6,7 +6,8 @@
 // a variable named `newID` that adds `1000000000` to the value in `oldID`, which
 // you shouldn't define — it will be provided for you in the test suite.
 
-let counter = 1;
+var newID
+
 
 
 /*
